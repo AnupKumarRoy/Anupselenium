@@ -1,0 +1,47 @@
+1.Main method in JAVA:
+    It is used to execute or console the program.
+    Syntax:public static void main(String[] args) 
+2.Statements:
+    Conditional Statement - if ,if else,nested if.
+    Looping Statement- for loop,while loop,do while loop.
+    Jump Statement- break,continue.
+    switch case statement.
+3.Jump Statement:
+    Continue Statement:To stop the current iteration of the loop and continue with the next iteration.
+    Break Statement:It stop the iteration and come out from the loop.
+4.Array:
+     Array is the collection of smiliar data type.
+     syntax:int[] array = {4,5,4,3,2,4,5};
+5.Array index out of bonds exception:
+    If the looping condition exist the index value in the Array,the it an error-Array index out
+    of bonds exceptions.
+6.Object syntax:
+    Classname objectname = new classname();
+    Eg,Car obj = new Car();
+7.Variable:
+  It is a container to store a value of defined data type.
+  Eg. int a=10;
+8.String:
+    String is a sequence charater and non-primitive data type.
+    It is also known as Class.
+9.Two ways to create String object in JAVA :
+    String name = "Anup";
+    String name = new String("Anup");
+10.equals() and ==:
+    equals():It is used to compare the two given String or Array:
+    ==:Compare the index values in String and Array.
+
+    
+    
+
+
+
+
+
+    
+    
+
+     
+     
+ 
+
